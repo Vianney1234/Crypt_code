@@ -18,5 +18,5 @@ function crypt_string($chaine, $cle_string){
     }
     return $chaine_crypte;
 }
-echo(crypt_string('Bonjour mon l\'Ami', 'Feu'));
+echo(crypt_string('Bonjour mon ami', 'Feu'));
 ?>
